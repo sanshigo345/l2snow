@@ -449,6 +449,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   torqAmount: 9
+  baseSpeed: 20
+  boostSpeed: 35
 --- !u!114 &245277902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -909,7 +911,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.112051, y: 1.63, z: -10}
+  m_LocalPosition: {x: -4.108692, y: 1.63, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6287,7 +6289,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7756411, y: 1}
+    m_SensorSize: {x: 1.7763714, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -6304,7 +6306,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 861436582}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.112051, y: 1.63, z: -10}
+  m_LocalPosition: {x: -4.108692, y: 1.63, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
